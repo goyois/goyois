@@ -2,7 +2,8 @@
 
 
 <h3 align="center"> 🛠️ Tech Stack 🛠️</h3>
-
+&nbsp;
+&nbsp;
 <p align= "center">
 
 <img alt="Java" src ="https://img.shields.io/badge/Java-283274.svg?&style=for-the-badge&logo=Java&logoColor=white"/> 
@@ -12,11 +13,14 @@
 <img alt="Java" src ="https://img.shields.io/badge/MySQL-A6A9AA.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
 <img alt="Java" src ="https://img.shields.io/badge/Amazon AWS-FFD500.svg?&style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
 <img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> 
-
+&nbsp;
+&nbsp;
 
   
   
 <h3 align="center"> Tools </h3>
+&nbsp;
+&nbsp;
 <p align= "center">
 
 <img alt="Html" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
