@@ -1,6 +1,6 @@
 <h3 align="center"> 🛠️ Tech Stack 🛠️</h3>
-&nbsp;
-&nbsp;
+<br>
+<br>
 <p align= "center">
 <img alt="Java" src ="https://img.shields.io/badge/Java-283274.svg?&style=for-the-badge&logo=Java&logoColor=white"/> 
 <img alt="Html" src ="https://img.shields.io/badge/Markdown-000000.svg?&style=for-the-badge&logo=Markdown&logoColor=white"/>
@@ -10,12 +10,9 @@
 <img alt="Java" src ="https://img.shields.io/badge/SpringSecurity-6DB33F.svg?&style=for-the-badge&logo=SpringSecurity&logoColor=white"/>
 <img alt="Java" src ="https://img.shields.io/badge/MySQL-A6A9AA.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
 <img alt="Java" src ="https://img.shields.io/badge/Amazon AWS-FFD500.svg?&style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+<br>
+<br>
+<br>
 <h3 align="center"> Tools </h3>
 &nbsp;
 &nbsp;
