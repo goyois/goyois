@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=220&section=header&text=badge%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=666666&height=150&section=header&text=Goyo&fontSize=50&fontColor=FFD500)
 
 <h3 align="center"> 🛠️ Tech Stack 🛠️</h3>
 <br>
