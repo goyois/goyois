@@ -37,4 +37,4 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgoyois&count_bg=%23000000&title_bg=%23000000&icon=gradle.svg&icon_color=%23F2E90A&title=Daily&edge_flat=true)](https://hits.seeyoufarm.com)
   
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=goyois&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goyois&layout=compact&theme=dark)
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=goyois&show_icons=true&theme=highcontrast) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goyois&layout=compact&theme=highcontrast)
