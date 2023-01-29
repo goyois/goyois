@@ -1,6 +1,5 @@
 <h3 align="center"> 🛠️ Tech Stack 🛠️</h3>
 <br>
-<br>
 <p align= "center">
 <img alt="Java" src ="https://img.shields.io/badge/Java-283274.svg?&style=for-the-badge&logo=Java&logoColor=white"/> 
 <img alt="Html" src ="https://img.shields.io/badge/Markdown-000000.svg?&style=for-the-badge&logo=Markdown&logoColor=white"/>
@@ -14,23 +13,19 @@
 <br>
 <br>
 <h3 align="center"> Tools </h3>
-&nbsp;
-&nbsp;
+<br>
 <p align= "center">
 <img alt="Html" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
 <img alt="Html" src ="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/>
 <img alt="Html" src ="https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white"/>
 <img alt="Html" src ="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white"/>
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+<br>
+<br>
+<br>
+<br>
+  <br>
+  <br>
+  
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgoyois&count_bg=%23000000&title_bg=%23000000&icon=gradle.svg&icon_color=%23F2E90A&title=Daily&edge_flat=true)](https://hits.seeyoufarm.com)
   
