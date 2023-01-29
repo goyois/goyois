@@ -1,16 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=666666&height=150&section=header&text=Goyo&fontSize=50&fontColor=FFD500)
+![header](https://capsule-render.vercel.app/api?type=soft&color=000000&height=150&section=header&text=Goyo&fontSize=50&fontColor=FFD500)
 
 <h3 align="center"> 🛠️ Tech Stack 🛠️</h3>
 <br>
 <p align= "center">
 <img alt="Java" src ="https://img.shields.io/badge/Java-283274.svg?&style=for-the-badge&logo=Java&logoColor=white"/> 
-<img alt="Html" src ="https://img.shields.io/badge/Markdown-000000.svg?&style=for-the-badge&logo=Markdown&logoColor=white"/>
 <img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img alt="Java" src ="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white"/> 
 <img alt="Java" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
 <img alt="Java" src ="https://img.shields.io/badge/SpringSecurity-6DB33F.svg?&style=for-the-badge&logo=SpringSecurity&logoColor=white"/>
-<img alt="Java" src ="https://img.shields.io/badge/MySQL-A6A9AA.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
 <img alt="Java" src ="https://img.shields.io/badge/Amazon AWS-FFD500.svg?&style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
+<img alt="Java" src ="https://img.shields.io/badge/MySQL-A6A9AA.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
 <br>
 <br>
 <br>
@@ -21,6 +20,8 @@
 <img alt="Html" src ="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/>
 <img alt="Html" src ="https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white"/>
 <img alt="Html" src ="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white"/>
+<img alt="Html" src ="https://img.shields.io/badge/Markdown-000000.svg?&style=for-the-badge&logo=Markdown&logoColor=white"/>
+
 <br>
 <br>
 <br>
