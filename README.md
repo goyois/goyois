@@ -2,7 +2,18 @@
 
 
 
+### Hi there 👋
+
 
 <h3 align="center"> 🛠️ Tech Stack 🛠️</h3>
 
-<p align= "center"> <img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=java&logoColor=blue"/></a>
+<p align= "center">
+
+<img src="https://img.shields.io/badge/Java-283274?style=flat-square&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"> 
+
+
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-A6A9AA?style=flat-square&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon AWS-FFD500?style=flat-square&logo=Amazon AWS&logoColor=white">
