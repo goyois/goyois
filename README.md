@@ -27,7 +27,12 @@
 <img alt="Html" src ="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/>
 <img alt="Html" src ="https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white"/>
 <img alt="Html" src ="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white"/>
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
-  
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=goyois&show_icons=true&theme=onedark)  
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=goyois&show_icons=true&theme=onedark)
+
+<p align= "center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goyois&layout=compact&theme=onedark)
