@@ -29,4 +29,4 @@
 <img alt="Html" src ="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white"/>
 
   
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=onedark)  
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=goyois&show_icons=true&theme=onedark)  
