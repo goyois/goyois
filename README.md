@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=000000&height=150&section=header&text=Goyo&fontSize=50&fontColor=FFD500)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=000000&height=150&section=header&text=Goyo&fontSize=50&fontColor=FFD500)
 
 <h3 align="center"> 🛠️ Tech Stack 🛠️</h3>
 <br>
