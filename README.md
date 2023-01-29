@@ -31,5 +31,5 @@
 &nbsp;
 &nbsp;
 &nbsp;
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgoyois&count_bg=%23332183&title_bg=%23555555&icon=&icon_color=%230F0B14&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=goyois&show_icons=true&theme=onedark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goyois&layout=compact&theme=onedark)
