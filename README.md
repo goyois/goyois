@@ -1,4 +1,4 @@
-![](https://velog.velcdn.com/images/goyo/post/ab0360cb-59e0-4fec-865c-ee185f228e27/image.jpg)
+
 
 
 <h3 align="center"> 🛠️ Tech Stack 🛠️</h3>
