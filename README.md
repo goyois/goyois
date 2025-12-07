@@ -26,9 +26,9 @@
 <br>
 <p align="center">
 <a href="https://github.com/goyois">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=goyois&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=goyois&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </a>
   
 <a href="https://github.com/goyois">  
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=goyois&layout=donut&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=goyois&layout=donut&langs_count=8&theme=algolia"/>
 </p> 
