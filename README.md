@@ -10,7 +10,6 @@
 <img alt="Java" src ="https://img.shields.io/badge/MySQL-A6A9AA.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
 <br>
 <br>
-<br>
 <h3 align="center"> Tools </h3>
 <br>
 <p align= "center">
@@ -23,7 +22,13 @@
 <br>
 <br>
 <br>
+<h3 align="center"> My GitHub Statistics </h3>
 <br>
-  <br>
-  <br>
+<p align="center">
+<a href="https://github.com/goyois">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=goyois&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</a>
   
+<a href="https://github.com/goyois">  
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=goyois&layout=donut&langs_count=8&theme=algolia"/>
+</p> 
