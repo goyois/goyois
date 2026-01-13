@@ -22,13 +22,13 @@
 <br>
 <br>
 <br>
-<h3 align="center"> My GitHub Statistics </h3>
+<h3 align="center"> Activity Overview </h3>
 <br>
 <p align="center">
 <a href="https://github.com/goyois">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=goyois&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=goyois&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </a>
-  
-<a href="https://github.com/goyois">  
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=goyois&layout=donut&langs_count=8&theme=algolia"/>
-</p> 
+  <a href="https://solved.ac/goyois">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=goyois" alt="Solved.ac 프로필">
+  </a>
+</p>
