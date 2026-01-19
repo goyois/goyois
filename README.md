@@ -10,14 +10,14 @@
 <img alt="Java" src ="https://img.shields.io/badge/MySQL-A6A9AA.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
 <br>
 <br>
-<h3 align="center"> Tools </h3>
+<!-- <h3 align="center"> Tools </h3>
 <br>
 <p align= "center">
 <img alt="Html" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
 <img alt="Html" src ="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/>
 <img alt="Html" src ="https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white"/>
 <img alt="Html" src ="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white"/>
-<img alt="Html" src ="https://img.shields.io/badge/Markdown-000000.svg?&style=for-the-badge&logo=Markdown&logoColor=white"/>
+<img alt="Html" src ="https://img.shields.io/badge/Markdown-000000.svg?&style=for-the-badge&logo=Markdown&logoColor=white"/> -->
 
 <br>
 <br>
