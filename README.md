@@ -4,7 +4,6 @@
 **Backend Developer**
 
 Mainly focusing on high-performance system design, I build asynchronous architectures and handle message brokers. ⚙️<br>
-I enjoy video editing, weightlifting. 🎬🏋️‍♂️<br>
 I aim to develop stable, robust, and beautifully optimized backend systems. ✨
 <br>
 <br>
